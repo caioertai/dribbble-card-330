@@ -1,0 +1,10 @@
+.btn {
+  padding: 8px 12px;
+  background-color: #fff;
+  color: #333;
+  display: inline-block;
+  border: 1px solid #aaa;
+  margin-bottom: 12px;
+  border-radius: 4px;
+}
+
